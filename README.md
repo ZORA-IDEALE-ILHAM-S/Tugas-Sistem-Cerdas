@@ -14,7 +14,7 @@ Tugas Uas sistem cerdas dengan judul" Klasifikasi deteksi jenis telur (ayam nasi
 <img src="https://github.com/user-attachments/assets/78d9af77-91d2-4389-862e-c0156c1f279e" width="400">
 
 ## Halaman Anggota Kelompok
-<img src="https://github.com/user-attachments/assets/00da7891-2eb4-4633-9786-d3c4c9e0f955" width="400">
+<img src="https://github.com/user-attachments/assets/00da7891-2eb4-4633-9786-d3c4c9e0f955" height ="300" width="400">
 
 ## Halaman Deteksi
 <img src="https://github.com/user-attachments/assets/47c72c52-fed6-49d1-b4a8-1eda6f250812" width="400">
